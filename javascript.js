@@ -55,3 +55,10 @@ alert(+apples + +oranges); //here the unary operator plus that is placed before 
 alert(apples + oranges);//see the difference? here the binary plus operator concatenates the strings apples and oranges, so the result is '23' instead of 5.
 
 //basically, function of unary plus operator is to convert any data type to a number. like +'' would convert to 0, and +true would convert to 1. pretty intuitive
+
+
+//NODE.JS
+
+//this is a javascript runtime environment that allows us to run javascript code outside of a browser. it is built on the V8 engine, which is the same engine that powers Google Chrome. it allows us to run javascript code on the server side, and it has a lot of built-in modules that we can use to build web applications.
+//NODE downloaded and installed!
+
